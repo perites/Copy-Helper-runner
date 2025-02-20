@@ -1,6 +1,6 @@
 #!/bin/bash
 
-INSTALLATION_FOLDER="$HOME/Documents/"
+INSTALLATION_FOLDER="$HOME/Documents/py-projects/"
 REPO_URL="https://github.com/perites/Copy-Helper"
 REPO_NAME="Copy-Helper"
 
